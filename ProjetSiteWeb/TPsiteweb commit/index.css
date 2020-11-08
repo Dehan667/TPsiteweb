@@ -1,0 +1,63 @@
+p{ 
+    color: rgb(215, 237, 255);
+    font-size: 15px;
+}
+
+body{
+    background-color: rgb(31, 30, 30);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.trose{
+    color:rgb(255,5,160);
+    font-size: 25px;
+}
+
+/* Cadre du haut */
+
+div.formec1 {
+    background-color:rgb(59, 59, 59);
+    color:#fff;
+    padding:5px;
+    margin-bottom:15px;
+    border-top:5px solid yellow;
+}
+
+/*Boite du bas de page */
+
+div.formec2 {
+    background-color:rgb(59, 59, 59);
+    color:#fff;
+    padding:15px;
+    border-bottom:5px solid orangered;
+    margin-bottom:15px;
+    font-weight: 100px;
+    border-right: 50px;
+    float: left;
+}
+
+/*Entête */
+
+div.formec3 {
+    background-color:rgb(59, 59, 59);
+    color:#fff;
+    padding:15px;
+    border-top:5px solid yellow;
+    margin-bottom:15px;
+    font-weight: 100px;
+    border-right: 50px;
+    bottom: 600px;
+}
+
+/* Menu latéral gauche */
+
+div.menu {
+    background-color:rgb(59, 59, 59);
+    color:#fff;
+    padding:15px;
+    border-top:5px solid yellow;
+    float: left;
+    height: 600px;
+    width: 100px;
+    text-align: center;
+}
