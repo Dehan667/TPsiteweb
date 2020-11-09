@@ -82,3 +82,17 @@ div.formecg {
     border-right: 50px;
     float: bottom,right;
 }
+
+/* Boite Grise Bord jaune */
+
+div.formecg2 {
+    background-color:rgb(59, 59, 59);
+    color:#fff;
+    padding:15px;
+    border-bottom:5px;
+    margin-bottom:15px;
+    font-weight: 100px;
+    border-right: 50px;
+    float: bottom,right;
+    border-top:5px solid yellow;
+}
